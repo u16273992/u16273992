@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muneiwa Rambuda
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning React + Firebase
+- 🌱 I’m currently learning Django + Python
 - 📫 How to reach me +27 65 8523 7307
 
 <!---
